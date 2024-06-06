@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaavya fernando</h1>
-<h3 align="center">A Undergraduate Software Engineer Student from Srilanka</h3>
+<h3 align="center">A Undergraduate Software Engineering Student from Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
