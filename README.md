@@ -14,17 +14,17 @@
  
  🌱 I’m currently learning **Java and Wed Development**
 
-📫 How to reach me **senurabawantha@gmail.com**
+📫 How to reach me **ktrc1201@gmail.com**
 
 ⚡ Fun fact **a fun fact**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:senurabawantha@gmail.com">
+  <a href="mailto:ktrc1201@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/senura-bhawantha/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaavyat-fernando/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
