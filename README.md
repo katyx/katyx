@@ -1,4 +1,4 @@
-<center>![Header](./pixel-study.gif)</center>
+![Header]<center>(./pixel-study.gif)</center>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=katyx" alt="katyx" /> </p>
