@@ -1,6 +1,4 @@
-<head align="center">
-    ![Header](./pixel-study.gif)
-</head>
+<img src="./pixel-study.gif" alt="Header" class="centered-image">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=katyx" alt="katyx" /> </p>
 
