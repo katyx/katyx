@@ -1,8 +1,6 @@
-<head align="center">
 <img src="./pixel-study.gif" alt="Header" align="center" class="centered-image" width="825" height="320">
-</head>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=katyx" alt="katyx" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=katyx" alt="katyx"/> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kaavya+Fernando!!;" />
