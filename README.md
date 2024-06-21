@@ -1,4 +1,18 @@
- <img src="./pixel-study.gif" alt="Header" align="center"">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center Image</title>
+    <style>
+        .centered-image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <img src="./pixel-study.gif" alt="Header" class="centered-image">
+</body>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=katyx" alt="katyx" /> </p>
 
