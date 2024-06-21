@@ -1,7 +1,5 @@
-![Header](./pixel-study.gif)
+<center>![Header](./pixel-study.gif)</center>
 
-[![MasterHead](https://images.app.goo.gl/Et5apEbZKebd4QV57)](https://rishavchanda.io)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=katyx" alt="katyx" /> </p>
 
