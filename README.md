@@ -1,4 +1,4 @@
-<img src="./pixel-study.gif" alt="Header" class="centered-image">
+<img src="./pixel-study.gif" alt="Header" class="centered-image" align="center">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=katyx" alt="katyx" /> </p>
 
