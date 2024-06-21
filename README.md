@@ -12,10 +12,10 @@
   <em>
     Hello, I am <b>Kaavya Fernando</b> a undergraduate from <a href="https://www.nsbm.ac.lk/"> <b>NSBM Green University</b>, Sri-Lanka</a>. <br>
     <b>a Passionate Self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Web Development, Mobile Applications, Artificial Intelligence, Cloud Computing, and Cybersecurity</b><br>
-      🌱 I’m currently learning <b>Java and Wed Development</b><br>
+    with <b>Web Development, Mobile Applications, Artificial Intelligence, Cloud Computing, and Data Science</b><br>
+      🌱 I’m currently learning <b>Java and Data Structures</b><br>
       📫 How to reach me <a href="mailto:ktrc1201@gmail.com"><b>ktrc1201@gmail.com</b></a><br>
-      :heart: My favorite language: Java <br>
+      :heart: My favorite languages: Java & Python <br>
       💬 Ask me about: anything, I am happy to help <br>
       <br>
   </em> 
