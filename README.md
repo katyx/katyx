@@ -1,5 +1,6 @@
-
+<head align="center">
 <img src="./pixel-study.gif" alt="Header" align="center" class="centered-image" width="825" height="320">
+</head>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=katyx" alt="katyx" /> </p>
 
